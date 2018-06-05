@@ -1,0 +1,18 @@
+#bg-color {
+  background-image:url("https://static.pexels.com/photos/429246/pexels-photo-429246.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#middle-div {
+  background-color: #fff4e7;
+  padding: 30px 5% 20px 3%;
+}
+
+#small-middle-div {
+  padding: 30px 5% 20px 3%;
+}
+
+#quote-footer {
+  padding: 20px 0px 15px 0px;
+}
